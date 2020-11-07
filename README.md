@@ -1,6 +1,5 @@
 # Yolo realtime object detection
 
-Realtime object detection using yolov3
 Download the YOLOv3 weights file from this link: https://pjreddie.com/darknet/yolo/
 
 ## Download any of the below .wights and respective .cfg file from above link depending upon your GPU's efficiency
